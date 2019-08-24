@@ -1,0 +1,22 @@
+{
+  "name": "The Idea of a University",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-idea-of-a-university/master/assets",
+  "book_id": 1080,
+  "book_url": "https://bubblin.io/book/the-idea-of-a-university-by-john-henry-newman"
+}
